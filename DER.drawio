@@ -1,9 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2023-08-30T20:55:18.006Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0" version="21.7.1" etag="JBWYpTb5qTLTH3iSSNPM" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-30T21:14:46.620Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0" etag="Oke8pXURcr_4UOLxC-Kj" version="21.7.1" type="github">
   <diagram name="Página-1" id="yBuTwChdW6Pn2HGdkiyH">
-    <mxGraphModel>
+    <mxGraphModel dx="9790" dy="5430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5I_T8E-PSPyp1cX_SvKI-1" value="Livro" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5I_T8E-PSPyp1cX_SvKI-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="474" y="555" as="sourcePoint" />
+            <mxPoint x="524" y="505" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5I_T8E-PSPyp1cX_SvKI-3" value="Autor" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="470" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5I_T8E-PSPyp1cX_SvKI-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="474" y="615" as="sourcePoint" />
+            <mxPoint x="530" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5I_T8E-PSPyp1cX_SvKI-7" value="Preço" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="610" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5I_T8E-PSPyp1cX_SvKI-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="555" as="sourcePoint" />
+            <mxPoint x="414" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5I_T8E-PSPyp1cX_SvKI-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="354" y="555" as="sourcePoint" />
+            <mxPoint x="300" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5I_T8E-PSPyp1cX_SvKI-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="304" y="665" as="sourcePoint" />
+            <mxPoint x="354" y="615" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5I_T8E-PSPyp1cX_SvKI-12" value="Titulo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5I_T8E-PSPyp1cX_SvKI-13" value="Ano Publicação" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="179" y="468" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5I_T8E-PSPyp1cX_SvKI-14" value="ISBN" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="630" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
